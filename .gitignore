@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VS Code settings (if using)
+.vscode/

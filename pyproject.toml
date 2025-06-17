@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exceldiffy"
+version = "0.1.0"
+description = "Compare Excel sheet columns side by side"
+readme = "README.md"
+authors = [{ name = "Israel Bosun", email = "israelbosun1@gmail.com" }]
+requires-python = ">=3.7"
+dependencies = ["pandas", "numpy", "XlsxWriter"] 
+license = { text = "MIT" }
+
+
+
+
+
+
+
+
+
