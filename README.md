@@ -1,6 +1,6 @@
-# 📊 exceldiffy: Effortless Excel Comparison for Analysts & Portfolios
+# 📊 exceldiffy: Compare Excel Sheets & DataFrames Effortlessly
 
-**exceldiffy** is a Python package designed to intelligently compare specific columns between two Excel sheets or pandas DataFrames. Whether you're working in finance, auditing, or general data analysis, it helps you spot changes fast — and even exports the results to Excel.
+**exceldiffy** is a Python package for comparing specific columns between two Excel sheets or pandas DataFrames, using composite keys to match rows and highlighting absolute/percentage changes. Whether you’re working in finance, auditing, or general data analysis, it helps you spot changes quickly and export the results to Excel.
 
 ---
 
